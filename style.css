@@ -39,7 +39,7 @@ a{
     text-decoration: none;
 }
 .App{
-    height:100vh;
+    height:105vh;
     width:100%;
 
 
@@ -69,10 +69,10 @@ a{
     margin-top:9rem;
 }
 .nav_list{
- margin-bottom: 1.5rem;
- padding: 1.3rem .8rem;
- position: relative;
- z-index: 1;
+   margin-bottom: 1.5rem;
+   padding: 1.3rem .8rem;
+   position: relative;
+   z-index: 1;
 }
 .nav_list a i{
     color:#FF3366;
@@ -115,9 +115,9 @@ a{
     color:black;
 }
 .App-feauture{
- flex:0 0 82%;
- background:var(--dark1);
- overflow-y: scroll;
+   flex:0 0 82%;
+   background:var(--dark1);
+   overflow-y: scroll;
 }
 .navbar:hover{
     border-right: .1px solid white;
@@ -414,13 +414,13 @@ a{
   visibility:visible;
 } 
 .li:link,.li:visited {
- font-size:40px;
- color:crimson;
- position:absolute;
- top:1rem;
- right:1rem;
- text-decoration:none;
- display:inline-block;
+   font-size:40px;
+   color:crimson;
+   position:absolute;
+   top:1rem;
+   right:1rem;
+   text-decoration:none;
+   display:inline-block;
 
 }
 .popup:target .popup_content{
